@@ -5,9 +5,9 @@ import torch as t
 dev = t.device('cpu')
 t.manual_seed(0)
 
-from EPFFT import EPFFT, EPFFTindependentGaussianMixture
+from core.EPFFT import EPFFT, EPFFTindependentGaussianMixture
 from Channels import OfdmSensingChannel_sparse_Gaussian
-from Utils import llrs2hardZF_f
+from core.Utils import llrs2hardZF_f
 
 """
 Application of the EP-FFT framework to the problem of channel estimation in a channel with multiple dominant reflectors 

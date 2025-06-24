@@ -4,8 +4,8 @@ import numpy as np
 import torch as t
 t.manual_seed(0)
 
-from EPFFT import EPFFT, EPFFTindependentGaussian, EPFFTindependentGaussianMixture
-from constellation import constellation, bpsk_mapping
+from core.EPFFT import EPFFT, EPFFTindependentGaussian, EPFFTindependentGaussianMixture
+from core.constellation import constellation, bpsk_mapping
 
 ctype = t.cdouble
 rtype = t.double

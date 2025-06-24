@@ -1,6 +1,6 @@
 # Copyright 2024, 2025 Luca Schmid.
 import torch as t
-from math import sqrt, pi
+from math import sqrt
 from collections import namedtuple
 
 class OfdmSensingChannel:

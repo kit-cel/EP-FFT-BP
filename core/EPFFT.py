@@ -1,7 +1,7 @@
 # Copyright 2024, 2025 Luca Schmid.
 import torch as t
-from DFT import DFT
-from FFTBP import FFTBP
+from core.DFT import DFT
+from core.FFTBP import FFTBP
 
 class EPFFT:
     """
