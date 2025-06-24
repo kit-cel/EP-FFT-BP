@@ -17,4 +17,4 @@ If you're interested in contributing, reporting issues, asking questions, or col
 
 ---
 
-This work has received funding in part from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No. 101001899) and in part from the German Federal Ministry of Education and Research (BMBF) within the project Open6GHub (grant agreement 16KISK010).
+This work has received funding in part from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No. 101001899) and in part from the German Federal Ministry of Research, Technology and Space (BMFTR) within the project Open6GHub (grant agreement 16KISK010).
