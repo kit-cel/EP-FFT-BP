@@ -13,7 +13,7 @@ This repo contains the source code for the [EP-FFT framework](https://arxiv.org/
  
 If you're interested in contributing, reporting issues, asking questions, or collaborating, please don’t hesitate to get in touch.
 
-[1] L. Schmid, C. Muth, L. Schmalen, ``Uncertainty Propagation in the Fast Fourier Transform'', accepted for publication at the International Workshop on Signal Processing and Artificial Intelligence in Wireless Communications (SPAWC), Surrey, UK, July 2025.
+[1] L. Schmid, C. Muth, L. Schmalen, ``Uncertainty Propagation in the Fast Fourier Transform'', accepted for publication at the _International Workshop on Signal Processing and Artificial Intelligence in Wireless Communications (SPAWC)_ , Surrey, UK, July 2025, preprint available at https://arxiv.org/pdf/2504.10136
 
 ---
 
